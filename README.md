@@ -1,3 +1,5 @@
+<h1>Out Now [FA6](https://github.com/tallesairan/FA5PRO/tree/fa6)</h1>
+
 <h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-pro.svg" alt="Font Awesome 5 Pro" width="50%"></h1>
 
 > Version 5 – the iconic SVG, font, and CSS framework
